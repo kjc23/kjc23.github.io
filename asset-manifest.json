@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kennethswebsite/static/css/main.068e03c6.css",
+    "main.css": "/kennethswebsite/static/css/main.b4b5b306.css",
     "main.js": "/kennethswebsite/static/js/main.ffe85c84.js",
     "static/js/453.bb828c5d.chunk.js": "/kennethswebsite/static/js/453.bb828c5d.chunk.js",
     "static/media/img-1.jpg": "/kennethswebsite/static/media/img-1.53f4843759ebec256cb9.jpg",
@@ -8,12 +8,12 @@
     "static/media/bible2.jpeg": "/kennethswebsite/static/media/bible2.4eee9621915b2d799453.jpeg",
     "static/media/music.webp": "/kennethswebsite/static/media/music.7bda7e81677f30a447f1.webp",
     "index.html": "/kennethswebsite/index.html",
-    "main.068e03c6.css.map": "/kennethswebsite/static/css/main.068e03c6.css.map",
+    "main.b4b5b306.css.map": "/kennethswebsite/static/css/main.b4b5b306.css.map",
     "main.ffe85c84.js.map": "/kennethswebsite/static/js/main.ffe85c84.js.map",
     "453.bb828c5d.chunk.js.map": "/kennethswebsite/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.068e03c6.css",
+    "static/css/main.b4b5b306.css",
     "static/js/main.ffe85c84.js"
   ]
 }
